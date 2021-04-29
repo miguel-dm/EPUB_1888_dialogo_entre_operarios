@@ -1,0 +1,36 @@
+
+nav#landmarks {
+    display:none;
+}
+nav#page-list {
+    display:none;
+}
+ol {
+    list-style-type: none;
+}
+li {
+	font-size:1.2em;
+}
+nav h1 {
+	margin:10% 0;
+}
+.bold{
+	font-weight:bold;
+}
+.italic{
+	font-style:italic;
+}
+.center{
+	text-align:center;
+}
+.mainFrame{
+	margin:auto;
+	max-width:62ch;
+}
+.mainFrame p,.mainFrame li {
+	text-indent:1.2em;
+	margin:0.3em 0;
+	line-height:1.5;
+}
+
+
